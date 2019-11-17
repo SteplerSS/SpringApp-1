@@ -1,5 +1,5 @@
 package com.steplerss.spring;
 
-public interface Musik {
+public interface Music {
     String getSong();
 }
