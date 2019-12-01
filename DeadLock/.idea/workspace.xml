@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556c9f29-d890-4c6a-a9c3-659748a9d415" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6eae2ae7-ad0d-4c55-9e3b-3435dfb970ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProdicerAndConsumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProdicerAndConsumer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../singlton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../singlton/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,12 +19,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/stepler/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+            <state relative-caret-position="525">
+              <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,15 +49,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ru/stepler/Test.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1686" />
-    <option name="y" value="21" />
-    <option name="width" value="1364" />
-    <option name="height" value="728" />
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -62,48 +73,62 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ProdicerAndConsumer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProdicerAndConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="DeadLock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeadLock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProdicerAndConsumer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProdicerAndConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="DeadLock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeadLock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProdicerAndConsumer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProdicerAndConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="DeadLock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeadLock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProdicerAndConsumer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProdicerAndConsumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="stepler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProdicerAndConsumer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProdicerAndConsumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="stepler" type="462c0819:PsiDirectoryNode" />
               <item name="Test.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="DeadLock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="DeadLock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="DeadLock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeadLock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeadLock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/REESTR/java-incubator/students-registry" />
   </component>
   <component name="RunDashboard">
@@ -120,14 +145,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.stepler.Test" />
-      <module name="ProdicerAndConsumer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stepler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="DeadLock" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,19 +162,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="556c9f29-d890-4c6a-a9c3-659748a9d415" name="Default Changelist" comment="" />
-      <created>1575078372530</created>
+      <changelist id="6eae2ae7-ad0d-4c55-9e3b-3435dfb970ff" name="Default Changelist" comment="" />
+      <created>1575137310980</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575078372530</updated>
+      <updated>1575137310980</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1686" y="21" width="1364" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25690183" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20476772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -164,7 +182,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36073825" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297546" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -172,7 +190,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297546" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -184,12 +202,23 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/stepler/Test.java">
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+        <state relative-caret-position="201">
+          <caret line="1373" column="22" selection-start-line="1373" selection-start-column="22" selection-end-line="1373" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
           </folding>
         </state>
       </provider>
